@@ -23,7 +23,7 @@ class _ProfilePageState extends State<ProfilePage> {
     final currentEmail = authService.getCurrentUserEmail();
     return Scaffold(
       appBar: AppBar(
-        title: const Text("Profile"),
+        title: const Text("Profil"),
         actions: [
           // logout button
           IconButton(

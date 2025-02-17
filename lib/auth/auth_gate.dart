@@ -3,7 +3,7 @@
 AUTH GATE - this will continuously listen for auth state changes.
 
 
-----------------------------------------------------------------------------
+------------------------------------------------------------------
 
 unauthenticaticated  -> Login Page
 authenticated
